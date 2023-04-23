@@ -1,1 +1,2 @@
 Added first feature
+Added second feature
